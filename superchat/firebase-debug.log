@@ -1,0 +1,89 @@
+[debug] [2024-04-26T13:17:01.293Z] ----------------------------------------------------------------------
+[debug] [2024-04-26T13:17:01.296Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2024-04-26T13:17:01.297Z] CLI Version:   13.7.5
+[debug] [2024-04-26T13:17:01.297Z] Platform:      win32
+[debug] [2024-04-26T13:17:01.297Z] Node Version:  v21.1.0
+[debug] [2024-04-26T13:17:01.297Z] Time:          Fri Apr 26 2024 18:47:01 GMT+0530 (India Standard Time)
+[debug] [2024-04-26T13:17:01.298Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-26T13:17:01.306Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-26T13:17:01.306Z] > authorizing via signed-in user (donmathan264@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\min react\superchat
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-04-26T13:19:12.571Z] ----------------------------------------------------------------------
+[debug] [2024-04-26T13:19:12.574Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2024-04-26T13:19:12.575Z] CLI Version:   13.7.5
+[debug] [2024-04-26T13:19:12.575Z] Platform:      win32
+[debug] [2024-04-26T13:19:12.575Z] Node Version:  v21.1.0
+[debug] [2024-04-26T13:19:12.576Z] Time:          Fri Apr 26 2024 18:49:12 GMT+0530 (India Standard Time)
+[debug] [2024-04-26T13:19:12.576Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-26T13:19:12.588Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-26T13:19:12.589Z] > authorizing via signed-in user (donmathan264@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\min react\superchat
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-04-26T13:22:23.792Z] ----------------------------------------------------------------------
+[debug] [2024-04-26T13:22:23.795Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2024-04-26T13:22:23.796Z] CLI Version:   13.7.5
+[debug] [2024-04-26T13:22:23.796Z] Platform:      win32
+[debug] [2024-04-26T13:22:23.796Z] Node Version:  v21.1.0
+[debug] [2024-04-26T13:22:23.797Z] Time:          Fri Apr 26 2024 18:52:23 GMT+0530 (India Standard Time)
+[debug] [2024-04-26T13:22:23.797Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-26T13:22:23.808Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-26T13:22:23.808Z] > authorizing via signed-in user (donmathan264@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\min react\superchat
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
